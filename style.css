@@ -1,0 +1,25 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3 {
+    display: inline;
+}
+.button{
+    float: right;
+}
+#start , #status{
+    font-size: 22px;
+}
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.modal-body {
+    background-color: white;
+}
+canvas{
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 20px;
+    }
